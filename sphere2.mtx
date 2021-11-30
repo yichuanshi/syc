@@ -1,17 +1,3 @@
-%%MatrixMarket matrix coordinate pattern symmetric
-%-------------------------------------------------------------------------------
-% UF Sparse Matrix Collection, Tim Davis
-% http://www.cise.ufl.edu/research/sparse/matrices/Pothen/sphere2
-% name: Pothen/sphere2
-% [sphere2, with coordinates.  From NASA, collected by Alex Pothen]
-% id: 883
-% date: 2003
-% author: NASA
-% ed: G. Kumfert, A. Pothen
-% fields: A title name id aux date author ed kind
-% aux: coord
-% kind: structural problem
-%-------------------------------------------------------------------------------
 66 66 258
 1 1
 2 1
